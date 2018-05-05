@@ -45,6 +45,7 @@ class Song
     new_array = []
     new_array = newfilename.split("-")
   
+    new_song = self.new
     
   end
 
