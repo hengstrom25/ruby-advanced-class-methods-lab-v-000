@@ -46,7 +46,7 @@ class Song
     new_array = newfilename.split("-")
   
     new_song = self.new
-    new_song.name = 
+    new_song.name = new_array[1]
   end
 
   def self.destroy_all
